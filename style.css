@@ -149,10 +149,11 @@ body {
 }
 
 /* Responsive design for larger screens */
-@media (min-width: 768px) {
+@media (min-width: 48rem) {
   .recipe-card {
-    margin: 123px auto;
+    margin: 7.6875rem auto;
   }
+
 
   .recipe-title {
     font-size: 40px;
@@ -163,3 +164,4 @@ body {
   }
 
 }
+
